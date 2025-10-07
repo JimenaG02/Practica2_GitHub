@@ -1,7 +1,7 @@
 # COMANDOS BÁSICOS DE GIT
 # Taller – Git & GitHub (flujo individual, sin ramas)
 Nombre: Jimena Monserrat Garcia Aguilar	
-Matrícula: 2242041696_
+Matrícula: 2242041696
 
 ====================================================================
 0) AYUDA RÁPIDA (para cuando te trabes)
