@@ -1,7 +1,7 @@
 # COMANDOS BÁSICOS DE GIT
 # Taller – Git & GitHub (flujo individual, sin ramas)
-Nombre:
-Matrícula:
+Nombre: Jimena Monserrat Garcia Aguilar	
+Matrícula: 2242041696_
 
 ====================================================================
 0) AYUDA RÁPIDA (para cuando te trabes)
@@ -172,3 +172,5 @@ git reset --hard
 - No subas datos sensibles (tokens, contraseñas, .env, bases de datos).
 - Usa '.gitignore' para excluir archivos temporales o generados.
 - Lee el mensaje de error completo: suele decirte exactamente qué hacer.
+
+Jimena Monserrat Garcia Aguilar 2242041696
